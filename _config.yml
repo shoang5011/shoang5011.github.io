@@ -1,1 +1,22 @@
 theme: jekyll-theme-cayman
+
+locale : "en-US"
+title : "SHoang"
+title_separator: "-"
+name: "SeanHoang"
+description: "Data Science Portfolio"
+
+author:
+    name: "SeanHoang"
+    bio: "Data Science Portfolio"
+    location: "Cleveland, OH"
+    github: "shoang5011"
+    linkedin: "sean-son-hoang-798512170"
+
+#_pages
+scope:
+    path: ""
+    type: pages
+values:
+    layout: single
+    author profile: true
