@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Sean Hoang"
-  avatar           : "/images/bio.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a data enthusiast who can solve business problems using data driven methods"
   location         : "Cleveland, OH"
   email            :
