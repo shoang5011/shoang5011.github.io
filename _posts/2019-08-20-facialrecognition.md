@@ -28,8 +28,10 @@ From the above, the model seems to overfit at around 10 epochs, at which accurac
 ## Model Validation
 Using test data, I can evaluate my trained CNN.
 <img src="{{ site.url }}{{ site.baseurl }}/images/FacialRecognition/validation.png" alt="">
+
 The model has an accuracy of 55.61% on validation data, which is comparable to that when used against test data.
 <img src="{{ site.url }}{{ site.baseurl }}/images/FacialRecognition/validation2.png" alt="">
+
 Probability of each label predicted by the model is included, together with true label. From the above, the model has hard times predicting some labels, especially between happy and surprise.
 
 ## Summary
