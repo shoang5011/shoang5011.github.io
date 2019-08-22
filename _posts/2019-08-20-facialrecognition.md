@@ -3,7 +3,7 @@ title: "Deep Learning Project: Facial Emotion Recognition"
 date: 2019-08-20
 tags: [machine learning, data science, deep learning]
 header:
-  image: "/images/housing/cover3.jpg"
+  image: "/images/FacialRecognition/cover.jpg"
 
   excerpt: "Machine Learning, Data Science"
 
