@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sean Hoang"
+title                    : "SHoang Portfolio"
 title_separator          : "-"
-name                     : "Sean Hoang"
+name                     : "Son Hoang"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,15 +106,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sean Hoang"
+  name             : "Son Hoang"
   avatar           : "/images/bio2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a data enthusiast who loves to solve business problems using data driven methods"
-  location         : "Cleveland, OH"
+  bio              : "I am a software developer and data enthusiast who loves to solve business problems using data driven methods"
+  location         : "Austin, TX"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:sxh984@case.edu
+      url: mailto:s.hoang1103@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://shoang5011.github.io/"
+      url: "https://shoang5011.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
